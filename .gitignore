@@ -1,0 +1,7 @@
+# use me to ignore files and folders
+
+# env folder
+env/*
+
+# py cache files
+__pycache__
