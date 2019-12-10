@@ -2,7 +2,7 @@
 In this assignment we learn how to use github and create a simple python file that prints the user's name.
 The name should be printed using a python function.
 
-#Assignment details
+# Assignment details
 First Assignment Instructions
 
 Welcome to your first assignment! In this assignment, you have to introduce yourself in pythonic way! As mentioned above your mission is to introduce yourself by making a greeting function and calling that function as greeting.
