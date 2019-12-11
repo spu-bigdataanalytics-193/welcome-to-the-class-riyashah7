@@ -14,3 +14,13 @@ Rename this file as Instructions.md. Create a new README.md file.
 Commit your changes and push your code to GitHub.
 Don't forget to upload it to Blackboard as well.
 
+# Solution
+
+In this assignment I used the following concepts:
+Inheritance
+Class 
+Function
+Object Creation
+
+
+
