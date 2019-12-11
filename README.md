@@ -26,6 +26,11 @@ Function
 
 Object Creation
 
+# Output
+
+First Name    Last Name    University                  Graduation Year
+------------  -----------  ------------------------  -----------------
+Riya          Shah         Saint Peter's University               2019
 
 
 
