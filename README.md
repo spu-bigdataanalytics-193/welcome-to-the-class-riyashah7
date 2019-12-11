@@ -17,10 +17,16 @@ Don't forget to upload it to Blackboard as well.
 # Solution
 
 In this assignment I used the following concepts:
+
 Inheritance
+
 Class 
+
 Function
+
 Object Creation
+
+
 
 
 
