@@ -10,8 +10,11 @@ Welcome to your first assignment! In this assignment, you have to introduce your
 Following is your checkmark.
 
 Make a function and use it to print your name.
+
 Rename this file as Instructions.md. Create a new README.md file.
+
 Commit your changes and push your code to GitHub.
+
 Don't forget to upload it to Blackboard as well.
 
 # Solution
@@ -26,11 +29,17 @@ Function
 
 Object Creation
 
+I created two classes:
+
+Person
+
+Student
+
+Student inherits the features of Person class. The init method in student class refers to the init function of the parent class(Person) using the super() function. This makes it easier to add more details for the student.
+
 # Output
 
-First Name    Last Name    University                  Graduation Year
-------------  -----------  ------------------------  -----------------
-Riya          Shah         Saint Peter's University               2019
+I displayed Full name along with the student's university and gratuaion year. I displayed the output in a tabular format using python's tabulate function. The key advantage is when more data is added, it can be viewed easily and in a more organized manner.
 
 
 
